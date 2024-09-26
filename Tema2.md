@@ -17,3 +17,9 @@ Elegimos editor       | Elegimos compilador     | Buscamos el archivo ejecutable
 Abrimos editor        | Le pasamos código fuente| Ejecutamos el archivo
 Escribimos código     | Ejecutamos compilador   |
 Guardamos código      |                           |
+
+Tareas por realizar:
+
+- [x] ~Editar~
+- [ ] Compilar
+- [ ] Ejecutar
