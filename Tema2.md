@@ -6,6 +6,9 @@ En este tema realizaremos las siguientes actividades:
 - **Compilar codigo fuente a codigo objeto**
 - **Ejecutar codigo ejecutable**
 
+![](HTML.png)
+
+
 ![](https://localdab.org/wp-content/uploads/2022/11/Compiler-2.jpg)
 
 
